@@ -1,16 +1,38 @@
-# React + Vite
+# 📝 Atividade React - Lista de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Atividade desenvolvida para a disciplina da faculdade, utilizando **React** com **Vite**.
 
-Currently, two official plugins are available:
+## 📋 Sobre o Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Aplicação de Lista de Tarefas (To-Do List) com design moderno em dark mode.
+Permite organizar tarefas de estudo de forma simples e elegante.
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Adicionar novas tarefas
+- ✅ Marcar tarefas como concluídas
+- ✅ Remover tarefas
+- ✅ Filtrar tarefas (Todas / Pendentes / Concluídas)
+- ✅ Contador de tarefas pendentes
+- ✅ Interface moderna com gradiente roxo/azul
 
-## Expanding the ESLint configuration
+## 🖼️ Print da Aplicação
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Print da Aplicação](./atividade_react.png)
+
+## 🚀 Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript
+
+## 💻 Como Executar o Projeto
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+Desenvolvido como atividade acadêmica 🎓
